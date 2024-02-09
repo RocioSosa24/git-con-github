@@ -1,2 +1,2 @@
 # git-con-github
-Repositorio en donde trabajo con git y github en "La casa del futuro Godoy Cruz".
+Repositorio en donde trabajo con git y github en "Casa del futuro Godoy Cruz".
